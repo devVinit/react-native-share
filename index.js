@@ -218,6 +218,7 @@ class RNShare {
     PAGESMANAGER: NativeModules.RNShare.PAGESMANAGER || 'pagesmanager',
     TWITTER: NativeModules.RNShare.TWITTER || 'twitter',
     WHATSAPP: NativeModules.RNShare.WHATSAPP || 'whatsapp',
+    WHATSAPP_BUISNESS: NativeModules.RNShare.WHATSAPP_BUISNESS || 'whatsappbusiness',
     INSTAGRAM: NativeModules.RNShare.INSTAGRAM || 'instagram',
     INSTAGRAM_STORIES: NativeModules.RNShare.INSTAGRAM_STORIES || 'instagramstories',
     GOOGLEPLUS: NativeModules.RNShare.GOOGLEPLUS || 'googleplus',
